@@ -1,0 +1,14 @@
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\bin\Debug\net10.0\Proje5.exe
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\bin\Debug\net10.0\Proje5.deps.json
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\bin\Debug\net10.0\Proje5.runtimeconfig.json
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\bin\Debug\net10.0\Proje5.dll
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\bin\Debug\net10.0\Proje5.pdb
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.AssemblyInfoInputs.cache
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.AssemblyInfo.cs
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.dll
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\refint\Proje5.dll
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.pdb
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\Proje5.genruntimeconfig.cache
+C:\Users\yasar\Desktop\proje1\Proje5\Proje5\obj\Debug\net10.0\ref\Proje5.dll
